@@ -1,3 +1,7 @@
+// Question 1: For each element of an array, a counter is set to 0 The element is compared
+// to each it’s left. if the element to the left is greater. The absolute difference is substrates
+// from the counter. The element of its left is less the absolute difference added to the counter
+
 // Test Cases
 // Sample Test 1
 // Input;

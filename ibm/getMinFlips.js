@@ -1,3 +1,6 @@
+// Question 2: A password string. pwd, consists of binary characters (Os and 15). A cyber security
+// expert is trying to determine the maximum number of changes required to make the password secure.
+
 // Test Cases
 // Sample Test 1
 // Input;

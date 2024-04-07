@@ -1,3 +1,8 @@
+// Question 3: There is a shop with old-style cash registers. Rather than scanning items
+// and pulling the price from a database, the price of each item is typed in manually. This
+// method sometimes leads to errors. Given a list of items and their correct prices, compare
+// the prices to those entered when each item was sold.
+
 function priceCheck(products, productPrices, productSold, soldPrice) {
   const priceMap = new Map();
 
