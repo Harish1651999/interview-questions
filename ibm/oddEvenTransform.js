@@ -1,3 +1,7 @@
+// Question 7: Odd-Even-Transform Problem works on an array of integers (both positive,
+// negative, and zero), by taking in a value (a whole number) that specifies the number
+// of times the transformation has to be applied.
+
 function oddEvenTransform(arr, n) {
   for (let i = 0; i < n; i++) {
     for (let j = 0; j < arr.length; j++) {
