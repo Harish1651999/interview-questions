@@ -1,4 +1,4 @@
-// Question 6: The cost of a stock on each day is given in an array, art. An investor
+// Question 3: The cost of a stock on each day is given in an array, art. An investor
 // wants to buy the stocks in triplets such that the sum of the cost for three days is
 // divisible by d.
 

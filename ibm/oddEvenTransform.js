@@ -1,4 +1,4 @@
-// Question 7: Odd-Even-Transform Problem works on an array of integers (both positive,
+// Question 10: Odd-Even-Transform Problem works on an array of integers (both positive,
 // negative, and zero), by taking in a value (a whole number) that specifies the number
 // of times the transformation has to be applied.
 

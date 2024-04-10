@@ -1,3 +1,7 @@
+// Question 5: Given n request ids as an array of strings, requests, and an integer k after all requests
+// are received, find the k most recent requests. Report the answer in order of most recent to
+// least recent.
+
 function getLatestKRequests(requests, k) {
   let ans = [];
   let check = new Map();

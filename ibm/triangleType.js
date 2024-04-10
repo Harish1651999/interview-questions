@@ -1,4 +1,4 @@
-// Question 8: In the assembly line, the factory assembles three parts a b' 'c'
+// Question 11: In the assembly line, the factory assembles three parts a b' 'c'
 // of a triangle toy. A valid toy is one where the two shorter sides added together
 // are greater in length than the longest side.
 

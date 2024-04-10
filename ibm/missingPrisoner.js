@@ -1,4 +1,4 @@
-// Prisoners are standing a Cartesian coordinate system present inside a jail. Each prisoner stands at a
+// Question 9: Prisoners are standing a Cartesian coordinate system present inside a jail. Each prisoner stands at a
 // unique point with both the coordinates (x.y) being integers. Each pointer should be at a position
 // that forms a rectangle or square with 3 other prisoners.
 

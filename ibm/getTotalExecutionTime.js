@@ -1,4 +1,4 @@
-// Question 9 ALL When multiple tasks are executed on a single- threaded CPU, the tasks
+// Question 8: ALL When multiple tasks are executed on a single- threaded CPU, the tasks
 // are scheduled based on the principle of pre-emption. When a higher- priority task arrives
 // in the execution queue, then the lower-priority task is pre-empted, i.e. its execution is paused
 // until the higher-priority task is complete.
